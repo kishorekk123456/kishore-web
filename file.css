@@ -1,0 +1,44 @@
+/style.css/
+
+body{
+	font-family: Arial, sans-serif;
+	background-color: moccasin;
+}
+h1{
+	color: #ffff00; font-size: 150px;margin-inline: 450px;text-align: center;
+}
+h2{
+	color: #ffff00; font-size: 150px;margin-inline: 400px;text-align: center;
+}
+h3{
+	color: #ffff00; font-size: 70px;margin-inline: 400px;	text-align: center;
+
+}
+.row{
+	display:flex;
+	width: 50%;
+	margin-left: 10%;
+	height: 800px;
+
+}
+.col{
+	flex:1;
+	padding: 50px;
+	margin-left: 380px;
+	border-radius: 5%;
+	margin-top: 80px;
+
+}
+.row1{
+	display:flex;
+	width: 50%;
+	margin-left: 10%;
+
+}
+.col1{
+	flex:1;
+	padding: 20s0px;
+	margin-left: 10px;
+	border-radius: 15%;
+
+}
